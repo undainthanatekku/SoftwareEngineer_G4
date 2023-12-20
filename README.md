@@ -58,3 +58,12 @@
 ![Siriyakorn Eaksiri Image](media/siriyakorn.jpg)
 
 ---
+
+- **Name:** Peerapath Sriwattanasup
+- **Student ID:** 643021331-0
+- **Section:** 4
+- **GitHub Username:** [PeerapathSriwattanasup](https://github.com/PeerapathSriwattanasup)
+
+![Peerapath Sriwattanasup Image](media/Peerapath_Sriwattanasup.jpg)
+
+---
