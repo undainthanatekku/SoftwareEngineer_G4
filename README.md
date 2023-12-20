@@ -36,4 +36,25 @@
 
 ![Sarisa Thungthong Image](media/sarisa.jpeg)
 
+<<<<<<< HEAD
 >>>>>>> d1574f65e1c21066a9f3512621b3ab7e561b28a5
+=======
+---
+
+- **Name:** Nuengtida Sangcha
+- **Student ID:** 643021344-1
+- **Section:** 4
+- **GitHub Username:** [nuengtida](https://github.com/nuengtida)
+
+![Nuengtida Sangcha Image](media/nuengtida.jpg)
+
+---
+
+- **Name:** Siriyakorn Eaksiri
+- **Student ID:** 643020650-9
+- **Section:** 4
+- **GitHub Username:** [ssiriyakorn](https://github.com/ssiriyakorn)
+
+![Siriyakorn Eaksiri Image](media/siriyakorn.jpg)
+
+---
