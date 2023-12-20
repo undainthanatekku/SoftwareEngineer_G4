@@ -10,3 +10,11 @@
 ![unda inthanate Image](media/undainthanate.jpg)
 
 ---
+- **Name:** Siriyakorn Eaksiri
+- **Student ID:** 643020650-9
+- **Section:** 4
+- **GitHub Username:** [ssiriyakorn](https://github.com/ssiriyakorn)
+
+![Siriyakorn Eaksiri Image](media/siriyakorn.jpg)
+
+---
