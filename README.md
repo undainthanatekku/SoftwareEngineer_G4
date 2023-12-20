@@ -10,11 +10,30 @@
 ![unda inthanate Image](media/undainthanate.jpg)
 
 ---
-- **Name:** Siriyakorn Eaksiri
-- **Student ID:** 643020650-9
-- **Section:** 4
-- **GitHub Username:** [ssiriyakorn](https://github.com/ssiriyakorn)
 
-![Siriyakorn Eaksiri Image](media/siriyakorn.jpg)
+- **Name:** Pativat Kongsawat
+- **Student ID:** 643020621-6
+- **Section:** 4
+- **GitHub Username:** [pativatkongsawat](https://github.com/pativatkongsawat)
+
+![pativat kongsawat Image](media/pativatkongsawat.jpg)
 
 ---
+
+- **Name:** Yarnnawit Robthaisong
+- **Student ID:** 643020604-6
+- **Section:** 4
+- **GitHub Username:** [yarnnawitrobthaisong](https://github.com/Yarnnawitch)
+
+![yarnnawit robthaisong Image](media/Yarnnawit.jpg)
+
+---
+
+- **Name:** Sarisa Thungthong
+- **Student ID:** 643021438-2
+- **Section:** 4
+- **GitHub Username:** [sarisa-28](https://github.com/sarisa-28)
+
+![Sarisa Thungthong Image](media/sarisa.jpeg)
+
+>>>>>>> d1574f65e1c21066a9f3512621b3ab7e561b28a5
