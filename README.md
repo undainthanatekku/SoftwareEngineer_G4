@@ -36,3 +36,11 @@
 
 ![Sarisa Thungthong Image](media/sarisa.jpeg)
 
+---
+
+- **Name:** Nuengtida Sangcha
+- **Student ID:** 643021344-1
+- **Section:** 4
+- **GitHub Username:** [nuengtida](https://github.com/nuengtida)
+
+![Nuengtida Sangcha Image](media/nuengtida.jpg)
