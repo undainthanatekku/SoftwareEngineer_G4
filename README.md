@@ -28,3 +28,11 @@
 ![yarnnawit robthaisong Image](media/Yarnnawit.jpg)
 
 ---
+
+- **Name:** Sarisa Thungthong
+- **Student ID:** 643021438-2
+- **Section:** 4
+- **GitHub Username:** [sarisa-28](https://github.com/sarisa-28)
+
+![Sarisa Thungthong Image](media/sarisa.jpeg)
+
