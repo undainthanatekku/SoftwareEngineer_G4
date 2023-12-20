@@ -36,9 +36,6 @@
 
 ![Sarisa Thungthong Image](media/sarisa.jpeg)
 
-<<<<<<< HEAD
->>>>>>> d1574f65e1c21066a9f3512621b3ab7e561b28a5
-=======
 ---
 
 - **Name:** Nuengtida Sangcha
