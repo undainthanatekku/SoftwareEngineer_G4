@@ -3,7 +3,7 @@
 - **Docker images :** [undainthanate/g4](https://hub.docker.com/repository/docker/undainthanate/g4/general)
 - **User manual :** https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/User_manual.pdf
 - **DoD:** https://miro.com/welcomeonboard/NnR6RTQzdkwyZjg3c2M5ZENuenRSbDBWOGxiZVBuOFB1MUVxb3BzWFRIOU01Q1pCaWZ5U2hPN1JwblVWREJYa3wzNDU4NzY0NTQwMDA5Njc0MTMzfDI=?share_link_id=739614933877
-- **Database & Sprint backlog + Burndown chart:** https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/test_case.xlsx
+- **Test & Sprint backlog + Burndown chart:** https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/test_case.xlsx
 
 # Team Development Project
 
