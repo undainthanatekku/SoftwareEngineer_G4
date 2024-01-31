@@ -1,7 +1,7 @@
 # Lab9 - Kick off
 
 - **Docker images :** [undainthanate/g4](https://hub.docker.com/repository/docker/undainthanate/g4/general)
-- **User manual :** [User manual]([https://hub.docker.com/repository/docker/undainthanate/g4/general](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/User_manual.pdf))
+- **User manual :** [User manual](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/User_manual.pdf.)
 
 # Team Development Project
 
