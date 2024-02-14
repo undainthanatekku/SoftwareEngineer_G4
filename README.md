@@ -2,7 +2,7 @@
 
 - **Docker images :** [undainthanate/g4](https://hub.docker.com/repository/docker/undainthanate/g4/general)
 - **User manual :** https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/User_manual.pdf
-- **DoD:** https://miro.com/welcomeonboard/NnR6RTQzdkwyZjg3c2M5ZENuenRSbDBWOGxiZVBuOFB1MUVxb3BzWFRIOU01Q1pCaWZ5U2hPN1JwblVWREJYa3wzNDU4NzY0NTQwMDA5Njc0MTMzfDI=?share_link_id=739614933877
+- **DoD:** [DoD](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/cf639d33634a60005110ccae3760c33a0f2dbccc/Deliverables%20Sprint%232/Do_Done.pdf)
 - **Sprint backlog + Burndown chart:** [Sprint backlog + Burndown chart](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/e6b9aa71f46716ce8e38f6760184d1f1fa944342/Deliverables%20Sprint%232/Sprint%20backlog%20%2B%20Burndown%20chart.pdf)
 - **User Acceptance Test:** [User Acceptance Test](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/4082a736e574ed28e9690921174b728746a8d17f/Deliverables%20Sprint%232/Sprint_2_TestScript.pdf)
 - **Presentation:** https://www.canva.com/design/DAF3T1rKNWs/u6URWnZnaTdwzBXMKFNeeg/edit
