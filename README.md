@@ -3,7 +3,7 @@
 - **Docker images :** [undainthanate/g4](https://hub.docker.com/repository/docker/undainthanate/g4/general)
 - **User manual :** https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/User_manual.pdf
 - **DoD:** https://miro.com/welcomeonboard/NnR6RTQzdkwyZjg3c2M5ZENuenRSbDBWOGxiZVBuOFB1MUVxb3BzWFRIOU01Q1pCaWZ5U2hPN1JwblVWREJYa3wzNDU4NzY0NTQwMDA5Njc0MTMzfDI=?share_link_id=739614933877
-- **Test & Sprint backlog + Burndown chart:** https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/test_case.xlsx & https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/sprint.xlsx
+- **Sprint backlog + Burndown chart:** Deliverables Sprint#2/Sprint#2.xlsx
 - **Presentation:** https://www.canva.com/design/DAF3T1rKNWs/u6URWnZnaTdwzBXMKFNeeg/edit
 
 # Lab9 - Kick off
