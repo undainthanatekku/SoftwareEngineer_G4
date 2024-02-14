@@ -6,7 +6,7 @@
 - **Sprint backlog + Burndown chart:** [Sprint backlog + Burndown chart](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/e6b9aa71f46716ce8e38f6760184d1f1fa944342/Deliverables%20Sprint%232/Sprint%20backlog%20%2B%20Burndown%20chart.pdf)
 - **User Acceptance Test:** [User Acceptance Test](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/4082a736e574ed28e9690921174b728746a8d17f/Deliverables%20Sprint%232/Sprint_2_TestScript.pdf)
 - **Presentation:** https://www.canva.com/design/DAF3T1rKNWs/u6URWnZnaTdwzBXMKFNeeg/edit
-
+- **A-DAPT Blueprint:** [A-DAPT Blueprint]()
 # Lab9 - Kick off
 
 - **Docker images :** [undainthanate/g4](https://hub.docker.com/repository/docker/undainthanate/g4/general)
