@@ -5,7 +5,7 @@
 - **DoD:** [DoD](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/cf639d33634a60005110ccae3760c33a0f2dbccc/Deliverables%20Sprint%232/Do_Done.pdf)
 - **Sprint backlog + Burndown chart:** [Sprint backlog + Burndown chart](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/d39e96b4c1538dd9c3059913df7892b0c521783c/Deliverables%20Sprint%232/Sprint%20backlog%20%2B%20Burndown%20chart.pdf)
 - **User Acceptance Test:** [User Acceptance Test](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/4082a736e574ed28e9690921174b728746a8d17f/Deliverables%20Sprint%232/Sprint_2_TestScript.pdf)
-- **Presentation:** https://www.canva.com/design/DAF3T1rKNWs/u6URWnZnaTdwzBXMKFNeeg/edit
+- **Presentation:** [Presentation]()
 - **A-DAPT Blueprint:** [A-DAPT Blueprint](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/8727b69369f2341edd117dc04d2a6817c06354c1/Deliverables%20Sprint%232/Usermanual.pdf)
 # Lab9 - Kick off
 
