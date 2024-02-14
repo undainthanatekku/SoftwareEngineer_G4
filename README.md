@@ -1,7 +1,7 @@
 # Deliverables Sprint#2
 
 - **Docker images :** [undainthanate/g4](https://hub.docker.com/repository/docker/undainthanate/g4/general)
-- **User manual :** https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/main/files/User_manual.pdf
+- **User manual :** [User manual](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/f8abbdf403a170ef92d4d3fc4c22c3686a96e48e/Deliverables%20Sprint%232/Usermanual.pdf)
 - **DoD:** [DoD](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/cf639d33634a60005110ccae3760c33a0f2dbccc/Deliverables%20Sprint%232/Do_Done.pdf)
 - **Sprint backlog + Burndown chart:** [Sprint backlog + Burndown chart](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/e6b9aa71f46716ce8e38f6760184d1f1fa944342/Deliverables%20Sprint%232/Sprint%20backlog%20%2B%20Burndown%20chart.pdf)
 - **User Acceptance Test:** [User Acceptance Test](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/4082a736e574ed28e9690921174b728746a8d17f/Deliverables%20Sprint%232/Sprint_2_TestScript.pdf)
