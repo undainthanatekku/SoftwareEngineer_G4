@@ -6,7 +6,7 @@
 - **Sprint backlog + Burndown chart:** [Sprint backlog + Burndown chart](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/17b8d18a0d86263620a18391b10894653e572a1c/Deliverables%20Sprint%233/sprint_backlog_burndown_chart.pdf)
 - **User Acceptance Test:** [User Acceptance Test](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/f8ca23f045055fe97fd53fc66ea361dcf33adba9/Deliverables%20Sprint%233/TestScript_G.4_sec.4.pdf)
 - **Presentation:** [Presentation](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/3006f232310f986b273bec9dab23fb0cdda6064f/Deliverables%20Sprint%233/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%884_sec.4.pdf)
-- **A-DAPT Blueprint:** [A-DAPT Blueprint](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/8727b69369f2341edd117dc04d2a6817c06354c1/Deliverables%20Sprint%232/Usermanual.pdf)
+- **A-DAPT Blueprint:** [A-DAPT Blueprint](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/044b6f06569968217e8cba238349fb25ff80cf3d/Deliverables%20Sprint%233/A_dapt_Blueprint_G4_sec.4.pdf)
 - **Source Code** [Source Code](https://github.com/undainthanatekku/SoftwareEngineer_G4/tree/6adf181b661bf8fde5fee7e144a917ad0b25ec75/Deliverables%20Sprint%233/PrestaShop-develop)
 - **Code Test** [Code Test](https://github.com/undainthanatekku/SoftwareEngineer_G4/tree/124968db0c48315ba01a1bb36a0b1bdf0e1d2cd1/Deliverables%20Sprint%233/playwright/tests)
 
