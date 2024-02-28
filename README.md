@@ -1,4 +1,4 @@
-# Deliverables Sprint#2
+# Deliverables Sprint#3
 
 - **Docker images :** [undainthanate/g4](https://hub.docker.com/repository/docker/undainthanate/g4/general)
 - **User manual :** [User manual](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/f8abbdf403a170ef92d4d3fc4c22c3686a96e48e/Deliverables%20Sprint%232/Usermanual.pdf)
