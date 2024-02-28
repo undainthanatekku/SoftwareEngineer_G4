@@ -7,6 +7,8 @@
 - **User Acceptance Test:** [User Acceptance Test](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/33126c5dc164cf8ffdb8fc7bc5de14c1093ebfa0/Deliverables%20Sprint%232/Sprint_2_TestScript.pdf)
 - **Presentation:** [Presentation](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/3006f232310f986b273bec9dab23fb0cdda6064f/Deliverables%20Sprint%233/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%884_sec.4.pdf)
 - **A-DAPT Blueprint:** [A-DAPT Blueprint](https://github.com/undainthanatekku/SoftwareEngineer_G4/blob/8727b69369f2341edd117dc04d2a6817c06354c1/Deliverables%20Sprint%232/Usermanual.pdf)
+- **Source Code** [Source Code](https://github.com/undainthanatekku/SoftwareEngineer_G4/tree/6adf181b661bf8fde5fee7e144a917ad0b25ec75/Deliverables%20Sprint%233/PrestaShop-develop)
+- **Code Test** [Code Test](https://github.com/undainthanatekku/SoftwareEngineer_G4/tree/124968db0c48315ba01a1bb36a0b1bdf0e1d2cd1/Deliverables%20Sprint%233/playwright/tests)
 
 # Deliverables Sprint#2
 
